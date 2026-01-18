@@ -535,9 +535,9 @@ p {
     z-index: -1;
 }
 .testimonial {
-    margin: 15px 40px;
-    width: 465px;
-    float: left;
+     width: 45%;
+   margin: 10px 30px ;
+   float: left;
 }
 .testimonial-meta {
     position: relative;
@@ -564,7 +564,7 @@ p {
     color: #6195FF;
     text-transform: uppercase;
 }
-.testimonial p {color: #FAFAFA;}
+.testimonial p {color: #FAFAFA; width: 450px ;}
 
 /* ============================= */
 #team {
